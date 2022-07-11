@@ -1,0 +1,9 @@
+cffi==1.15.1
+pytest==7.1.2
+hypothesis[codemods]==6.50.1
+pynguin==0.25.0
+dnspython==2.2.1
+battle_tested==2020.9.7.3
+atheris==2.0.11
+# pythonfuzz==1.0.3 --extra-index-url https://gitlab.com/api/v4/projects/19904939/packages/pypi/simple
+git+https://gitlab.com/gitlab-org/security-products/analyzers/fuzzers/pythonfuzz.git
